@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://vineet-singhal2312.github.io/csb-r95jx/static/css/main.bdbfbb20.chunk.css",
+    "main.js": "https://vineet-singhal2312.github.io/csb-r95jx/static/js/main.fc8cc31c.chunk.js",
+    "main.js.map": "https://vineet-singhal2312.github.io/csb-r95jx/static/js/main.fc8cc31c.chunk.js.map",
+    "runtime-main.js": "https://vineet-singhal2312.github.io/csb-r95jx/static/js/runtime-main.909e7a2b.js",
+    "runtime-main.js.map": "https://vineet-singhal2312.github.io/csb-r95jx/static/js/runtime-main.909e7a2b.js.map",
+    "static/js/2.d5e862e3.chunk.js": "https://vineet-singhal2312.github.io/csb-r95jx/static/js/2.d5e862e3.chunk.js",
+    "static/js/2.d5e862e3.chunk.js.map": "https://vineet-singhal2312.github.io/csb-r95jx/static/js/2.d5e862e3.chunk.js.map",
+    "index.html": "https://vineet-singhal2312.github.io/csb-r95jx/index.html",
+    "static/css/main.bdbfbb20.chunk.css.map": "https://vineet-singhal2312.github.io/csb-r95jx/static/css/main.bdbfbb20.chunk.css.map",
+    "static/js/2.d5e862e3.chunk.js.LICENSE.txt": "https://vineet-singhal2312.github.io/csb-r95jx/static/js/2.d5e862e3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.909e7a2b.js",
+    "static/js/2.d5e862e3.chunk.js",
+    "static/css/main.bdbfbb20.chunk.css",
+    "static/js/main.fc8cc31c.chunk.js"
+  ]
+}
